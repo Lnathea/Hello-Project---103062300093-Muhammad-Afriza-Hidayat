@@ -1,6 +1,5 @@
 // Muhammad Afriza Hidayat
 // 103062300093
-// S1IT-KJ-23-002
 
 package main
 
